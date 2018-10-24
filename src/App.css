@@ -8,7 +8,7 @@ body, .app {
   background: white;
 }
 
-/* main page */
+/* home page */
 
 .list-books-title {
   padding: 10px 0;
@@ -54,7 +54,7 @@ body, .app {
   height: 50px;
   border-radius: 50%;
   background: #2e7d32;
-  background-image: url('./icons/add.svg');
+  background-image: url('./icons/magnifier-with-an-eye-white.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 28px;
